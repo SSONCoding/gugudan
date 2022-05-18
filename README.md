@@ -25,6 +25,7 @@ if (isset($_POST['input'])){
 </body>
 </html>
 
+![image](https://user-images.githubusercontent.com/93318468/168962320-618ed543-e529-4bae-b9b0-f41fb45c4c03.png)
 
 ![image](https://user-images.githubusercontent.com/93318468/168962213-954e8ddd-0005-49ac-9a1d-780c2263ecd1.png)
 
